@@ -1,11 +1,11 @@
 {
-    "versionName":  "1.0.6",
-    "versionCode":  7,
-    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.6-7.apk",
-    "sha256":  "a65626552c3930096a017dce7416ad99554a579486ce19191eab10c3fd311852",
-    "sizeBytes":  23706476,
-    "notes":  "إصلاح استكمال التحميلات المقطوعة من سيرفر عرب سيد: بيجيب لينك جديد ويكمّل، ولو السيرفر مبيدعمش الاستكمال بيسألك تبدأ من الأول",
+    "versionName":  "1.0.7",
+    "versionCode":  8,
+    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.7-8.apk",
+    "sha256":  "1fd9d06645fc56cc9cb0e3d73f3b19b6949ccde805faae5131fb5efdc7da32ab",
+    "sizeBytes":  23772120,
+    "notes":  "ثيمات جديدة: سينما كلاسيك وزجاج وأورورا، كل واحد بنهار وليل. من الإعدادات ← شكل التطبيق.",
     "mandatory":  false,
     "minVersionCode":  0,
-    "publishedAt":  "2026-11-12T21:32:22Z"
+    "publishedAt":  "2026-11-12T23:49:16Z"
 }
