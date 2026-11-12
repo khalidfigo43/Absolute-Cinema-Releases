@@ -1,11 +1,11 @@
 {
-    "versionName":  "1.0.5",
-    "versionCode":  6,
-    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.5-6.apk",
-    "sha256":  "6a7645ad901cd5c354ff069572513e32fc808388434290b23c74b91e12afdff4",
-    "sizeBytes":  23706472,
-    "notes":  "اقتراحات وإنت بتكتب في البحث (عربي وإنجليزي) وسجل البحث، إصلاح تهنيج التطبيق أثناء التحميل، جلب لينك جديد لما اللينك القديم ينتهي، سؤال قبل إعادة التحميل من الأول لو السيرفر مبيدعمش الاستكمال، تحسين إشعارات التحميل",
+    "versionName":  "1.0.6",
+    "versionCode":  7,
+    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.6-7.apk",
+    "sha256":  "a65626552c3930096a017dce7416ad99554a579486ce19191eab10c3fd311852",
+    "sizeBytes":  23706476,
+    "notes":  "إصلاح استكمال التحميلات المقطوعة من سيرفر عرب سيد: بيجيب لينك جديد ويكمّل، ولو السيرفر مبيدعمش الاستكمال بيسألك تبدأ من الأول",
     "mandatory":  false,
     "minVersionCode":  0,
-    "publishedAt":  "2026-11-12T21:11:11Z"
+    "publishedAt":  "2026-11-12T21:32:22Z"
 }
