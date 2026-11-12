@@ -1,11 +1,11 @@
 {
-    "versionName":  "1.0.3",
-    "versionCode":  4,
-    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.3-4.apk",
-    "sha256":  "dae5a518eb719665e4868a6aa9b3e597a0bc142729bc95a6115642ff64e42716",
-    "sizeBytes":  23574940,
-    "notes":  "• التحديث بيتحفظ بعد التحميل: لو خرجت قبل التثبيت، المرة الجاية بيتثبت على طول من غير تحميل\n• لو التحميل اتقطع بيكمّل من مكان ما وقف",
+    "versionName":  "1.0.4",
+    "versionCode":  5,
+    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.4-5.apk",
+    "sha256":  "31434c2d3135c87d221a9175bbd604a468f207699103bf874494cdcd762f4e92",
+    "sizeBytes":  23575000,
+    "notes":  "• طاقم العمل في صفحة كل فيلم ومسلسل، ولما تدوس على ممثل تظهر باقي أعماله\n• إصلاح مصدر كان متوقف عن العمل",
     "mandatory":  false,
     "minVersionCode":  0,
-    "publishedAt":  "2026-11-12T01:06:03Z"
+    "publishedAt":  "2026-11-12T09:04:24Z"
 }
