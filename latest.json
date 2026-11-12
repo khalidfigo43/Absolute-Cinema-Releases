@@ -1,11 +1,11 @@
 {
-    "versionName":  "1.0.4",
-    "versionCode":  5,
-    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.4-5.apk",
-    "sha256":  "31434c2d3135c87d221a9175bbd604a468f207699103bf874494cdcd762f4e92",
-    "sizeBytes":  23575000,
-    "notes":  "• طاقم العمل في صفحة كل فيلم ومسلسل، ولما تدوس على ممثل تظهر باقي أعماله\n• إصلاح مصدر كان متوقف عن العمل",
+    "versionName":  "1.0.5",
+    "versionCode":  6,
+    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.5-6.apk",
+    "sha256":  "6a7645ad901cd5c354ff069572513e32fc808388434290b23c74b91e12afdff4",
+    "sizeBytes":  23706472,
+    "notes":  "اقتراحات وإنت بتكتب في البحث (عربي وإنجليزي) وسجل البحث، إصلاح تهنيج التطبيق أثناء التحميل، جلب لينك جديد لما اللينك القديم ينتهي، سؤال قبل إعادة التحميل من الأول لو السيرفر مبيدعمش الاستكمال، تحسين إشعارات التحميل",
     "mandatory":  false,
     "minVersionCode":  0,
-    "publishedAt":  "2026-11-12T09:04:24Z"
+    "publishedAt":  "2026-11-12T21:11:11Z"
 }
