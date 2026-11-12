@@ -1,11 +1,11 @@
 {
-    "versionName":  "1.0.2",
-    "versionCode":  3,
-    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.2-3.apk",
-    "sha256":  "60dedde6f574142325ec0231214d18bd08b89e6ca5a69f608697c4db371b74ad",
+    "versionName":  "1.0.3",
+    "versionCode":  4,
+    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.3-4.apk",
+    "sha256":  "dae5a518eb719665e4868a6aa9b3e597a0bc142729bc95a6115642ff64e42716",
     "sizeBytes":  23574940,
-    "notes":  "• المترجم والمدبلج في كارت واحد، واختيار النسخة فوق الحلقات\n• تحميل موسم كامل أو كذا فيلم مرة واحدة مع اختيار الجودة\n• عدد التحميلات في نفس الوقت من الإعدادات (لحد 10)\n• مواسم المسلسلات بقت مجمّعة في كارت واحد",
+    "notes":  "• التحديث بيتحفظ بعد التحميل: لو خرجت قبل التثبيت، المرة الجاية بيتثبت على طول من غير تحميل\n• لو التحميل اتقطع بيكمّل من مكان ما وقف",
     "mandatory":  false,
     "minVersionCode":  0,
-    "publishedAt":  "2026-11-12T00:54:06Z"
+    "publishedAt":  "2026-11-12T01:06:03Z"
 }
