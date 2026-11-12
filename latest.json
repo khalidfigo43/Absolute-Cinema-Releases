@@ -1,11 +1,11 @@
 {
-    "versionName":  "1.0.1",
-    "versionCode":  2,
-    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.1-2.apk",
-    "sha256":  "7faa0e0bb66bfdfd63325f0cab5896e98c1040c9d464d5f4d9a6f0ae9e31c429",
-    "sizeBytes":  23246536,
-    "notes":  "أول نسخة بالتحديث التلقائي: مصادر جديدة (أفلام ستريم وإيجي بست)، تشغيل أسرع، إصلاح MX Player، صور أوضح، الرئيسية بتظهر فورًا، بحث مجمّع، فلاتر جديدة.",
+    "versionName":  "1.0.2",
+    "versionCode":  3,
+    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.2-3.apk",
+    "sha256":  "60dedde6f574142325ec0231214d18bd08b89e6ca5a69f608697c4db371b74ad",
+    "sizeBytes":  23574940,
+    "notes":  "• المترجم والمدبلج في كارت واحد، واختيار النسخة فوق الحلقات\n• تحميل موسم كامل أو كذا فيلم مرة واحدة مع اختيار الجودة\n• عدد التحميلات في نفس الوقت من الإعدادات (لحد 10)\n• مواسم المسلسلات بقت مجمّعة في كارت واحد",
     "mandatory":  false,
     "minVersionCode":  0,
-    "publishedAt":  "2026-11-11T16:59:58Z"
+    "publishedAt":  "2026-11-12T00:54:06Z"
 }
