@@ -1,11 +1,11 @@
 {
-    "versionName":  "1.0.7",
-    "versionCode":  8,
-    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.7-8.apk",
-    "sha256":  "1fd9d06645fc56cc9cb0e3d73f3b19b6949ccde805faae5131fb5efdc7da32ab",
+    "versionName":  "1.0.8",
+    "versionCode":  9,
+    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.8-9.apk",
+    "sha256":  "e64183433704490001039faf7eac22c63765fef1423c535e16d57c3cdc282a2e",
     "sizeBytes":  23772120,
-    "notes":  "ثيمات جديدة: سينما كلاسيك وزجاج وأورورا، كل واحد بنهار وليل. من الإعدادات ← شكل التطبيق.",
+    "notes":  "مصدر أنمي جديد، وسيرفر sendvid بقى بيشتغل للمشاهدة والتحميل، وشاشة التحميلات بقت بلون الثيم.",
     "mandatory":  false,
     "minVersionCode":  0,
-    "publishedAt":  "2026-11-12T23:49:16Z"
+    "publishedAt":  "2026-11-13T17:25:10Z"
 }
