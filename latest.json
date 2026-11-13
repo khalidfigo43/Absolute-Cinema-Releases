@@ -1,11 +1,11 @@
 {
-    "versionName":  "1.0.8",
-    "versionCode":  9,
-    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.8-9.apk",
-    "sha256":  "e64183433704490001039faf7eac22c63765fef1423c535e16d57c3cdc282a2e",
-    "sizeBytes":  23772120,
-    "notes":  "مصدر أنمي جديد، وسيرفر sendvid بقى بيشتغل للمشاهدة والتحميل، وشاشة التحميلات بقت بلون الثيم.",
+    "versionName":  "1.0.9",
+    "versionCode":  10,
+    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.9-10.apk",
+    "sha256":  "bb553154dff77b15b5f553d8c8f4774e46ed80809f4112483ce8d272fc1da3c5",
+    "sizeBytes":  23772900,
+    "notes":  "ثيم Liquid Glass جديد، وزرار شير بيفتح نفس الحلقة أو الفيلم عند صاحبك، وسيرفرات التحميل في مصدر الأنمي الجديد رجعت.",
     "mandatory":  false,
     "minVersionCode":  0,
-    "publishedAt":  "2026-11-13T17:25:10Z"
+    "publishedAt":  "2026-11-13T18:26:21Z"
 }
