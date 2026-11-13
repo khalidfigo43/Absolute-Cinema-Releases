@@ -1,11 +1,11 @@
 {
-    "versionName":  "1.0.9",
-    "versionCode":  10,
-    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.9-10.apk",
-    "sha256":  "bb553154dff77b15b5f553d8c8f4774e46ed80809f4112483ce8d272fc1da3c5",
-    "sizeBytes":  23772900,
-    "notes":  "ثيم Liquid Glass جديد، وزرار شير بيفتح نفس الحلقة أو الفيلم عند صاحبك، وسيرفرات التحميل في مصدر الأنمي الجديد رجعت.",
+    "versionName":  "1.0.10",
+    "versionCode":  11,
+    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.10-11.apk",
+    "sha256":  "0f021522c9c58b08d4a57f1dfd336405b6716c654b9c62a0903c3defd2ffa75f",
+    "sizeBytes":  23772904,
+    "notes":  "شريط سفلي جديد بيتزحلق في ثيم Liquid Glass وهيدر زجاج، التابات بتفتح أسرع من الكاش، وسيرفرات mp4upload وvidmoly بقت تشتغل للمشاهدة والتحميل.",
     "mandatory":  false,
     "minVersionCode":  0,
-    "publishedAt":  "2026-11-13T18:26:21Z"
+    "publishedAt":  "2026-11-13T22:00:04Z"
 }
