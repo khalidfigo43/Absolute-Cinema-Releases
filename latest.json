@@ -1,11 +1,11 @@
 {
-    "versionName":  "1.0.11",
-    "versionCode":  12,
-    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.11-12.apk",
-    "sha256":  "41a45a72e8d63e27f1e425642a5fe32fd22fb6feaa28434beaf17d8d281db006",
-    "sizeBytes":  24126290,
-    "notes":  "تغيير الجودة والترجمة من المشغل، تغبيش أخف في Liquid Glass، وتصليح أول صف تحت الهيدر.",
+    "versionName":  "1.0.12",
+    "versionCode":  13,
+    "apkUrl":  "https://raw.githubusercontent.com/khalidfigo43/Absolute-Cinema-Releases/main/apk/absolute-cinema-1.0.12-13.apk",
+    "sha256":  "58240dd9380997b8984f15a90556851a4f5a1197c637d498bfb7c09509bbd5fd",
+    "sizeBytes":  24191890,
+    "notes":  "مصادر جديدة (أكوام، كيو فيلم، أنمي ركو)، ترجمة عربي تلقائية للأنمي في المشغل ومع التحميل، كارت واحد لكل عمل من كل المصادر، وأسماء ملفات أوضح.",
     "mandatory":  false,
     "minVersionCode":  0,
-    "publishedAt":  "2026-11-13T22:44:39Z"
+    "publishedAt":  "2026-11-14T11:04:06Z"
 }
